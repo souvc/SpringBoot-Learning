@@ -29,6 +29,7 @@
 ### 工程配置
 
 - chapter2-1-1：[配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
+- chapter2-1-2：[配置Spring-boot不同的启动方式以及自定义banner](https://github.com/souvc/spring-boot-samples/tree/master/Chapter2-1-2)
 
 ### Web开发
 
