@@ -5,7 +5,7 @@ Spring Boot官网网站
 - Spring Boot官网：http://projects.spring.io/spring-boot/
 - Spring Boot源码：https://github.com/spring-projects/spring-boot
 - Spring samples：[点击跳转](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples)
-- Spring Boot Reference Guide 英文版：[《Spring Boot参考指南](http://docs.spring.io/spring-boot/docs/1.4.1.RELEASE/reference/htmlsingle/)
+- Spring Boot Reference Guide 英文版：[《Spring Boot参考指南》](http://docs.spring.io/spring-boot/docs/1.4.1.RELEASE/reference/htmlsingle/)
 - Spring Boot Reference Guide 中文版：[《Spring Boot参考指南》](https://github.com/qibaoguang/Spring-Boot-Reference-Guide/blob/master/SUMMARY.md)
 
 本项目内容为Spring Boot教程程序样例。
