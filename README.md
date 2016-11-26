@@ -40,6 +40,7 @@
 - chapter3-1-5：[使用Swagger2构建RESTful API](http://blog.didispace.com/springbootswagger2/)
 - chapter3-1-6：[统一异常处理](http://blog.didispace.com/springbootexception/)
 - chapter3-1-7：[配置Spring-Boot支持jsp](https://github.com/spring-projects/spring-boot/tree/v1.3.2.RELEASE/spring-boot-samples/spring-boot-sample-web-jsp)
+- chapter3-1-8：[配置Spring-Boot支持不同设备的页面](https://github.com/souvc/spring-boot-samples/tree/master/Chapter3-1-8)
 
 ### 数据访问
 
